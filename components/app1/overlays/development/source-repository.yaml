@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: app1-repository
+spec:
+  url: https://github.com/noseka1org/app1
