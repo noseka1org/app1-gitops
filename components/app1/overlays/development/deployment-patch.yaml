@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay-registry-quay-quay-enterprise.apps.mycluster10a.sandbox2806.opentlc.com/myorg1/app1:17a4056457ebc04d4713a3659a59e07881ac3177@sha256:7e62540a3950cc2687c75f024db438b6e732820e4856be5f72dc2899de9124c8
+        - image: quay-registry-quay-quay-enterprise.apps.mycluster10a.sandbox2806.opentlc.com/myorg1/app1:b88f9312d3724cfb067be388759d90c54e00b200@sha256:186994e025b8f6e235cec86cb38f944b3436bfcd9a3caeceba031071a228817f
           name: container-image
